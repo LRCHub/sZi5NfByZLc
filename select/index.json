@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Utopia",
+  "base_artist": "おいしくるメロンパン",
+  "createdAt": "2026-03-14T14:51:28.786322Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Utopia",
+      "artist": "LGoony",
+      "has_synced": true,
+      "path": "select/01_Utopia_LGoony.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Utopia (prod. GEE Futuristic & Nikki 3k)",
+      "artist": "LGoony",
+      "has_synced": true,
+      "path": "select/02_Utopia_(prod._GEE_Futuristic_&_Nikki_3k)_LGoony.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dark Side of the Moon (The Disco Brothers Utopia Remix)",
+      "artist": "Ernesto feat. Bastian",
+      "has_synced": false,
+      "path": "select/03_Dark_Side_of_the_Moon_(The_Disco_Brothers_Utopia_Remix)_Ernesto_feat._Bastian.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Utopia",
+      "artist": "Björk feat. Arca",
+      "has_synced": false,
+      "path": "select/04_Utopia_Björk_feat._Arca.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Utopia",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/05_Utopia_Björk.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Utopia",
+      "artist": "Austra",
+      "has_synced": true,
+      "path": "select/06_Utopia_Austra.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Utopia",
+      "artist": "YACHT",
+      "has_synced": true,
+      "path": "select/07_Utopia_YACHT.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Utopia Parkway",
+      "artist": "Fountains of Wayne",
+      "has_synced": true,
+      "path": "select/08_Utopia_Parkway_Fountains_of_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Utopia",
+      "artist": "Simple Minds",
+      "has_synced": true,
+      "path": "select/09_Utopia_Simple_Minds.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Utopia Consumed",
+      "artist": "Abigor",
+      "has_synced": false,
+      "path": "select/10_Utopia_Consumed_Abigor.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Utopia Running Scarlet",
+      "artist": "Dødheimsgard",
+      "has_synced": false,
+      "path": "select/11_Utopia_Running_Scarlet_Dødheimsgard.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Utopia",
+      "artist": "Goldfrapp",
+      "has_synced": false,
+      "path": "select/12_Utopia_Goldfrapp.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Utopia (New Ears Mix)",
+      "artist": "Goldfrapp",
+      "has_synced": false,
+      "path": "select/13_Utopia_(New_Ears_Mix)_Goldfrapp.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Utopia (Tom Middleton's Cosmos vocal mix)",
+      "artist": "Goldfrapp",
+      "has_synced": false,
+      "path": "select/14_Utopia_(Tom_Middleton's_Cosmos_vocal_mix)_Goldfrapp.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Utopia (Tom Middletons Cosmos Vocal Mix)",
+      "artist": "Goldfrapp",
+      "has_synced": false,
+      "path": "select/15_Utopia_(Tom_Middletons_Cosmos_Vocal_Mix)_Goldfrapp.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Utopia",
+      "artist": "おいしくるメロンパン",
+      "has_synced": false,
+      "path": "select/pl_01_Utopia_おいしくるメロンパン.txt"
+    }
+  ]
+}
